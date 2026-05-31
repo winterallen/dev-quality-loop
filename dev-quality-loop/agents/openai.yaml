@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Quality Loop"
+  short_description: "Guide Codex through disciplined software development changes."
+  default_prompt: "Use this skill to make a code change with scoped context gathering, implementation, validation, and a concise handoff."
